@@ -128,5 +128,10 @@ namespace SonicRetro.SonLVL
 					return null;
 			}
 		}
+
+		private void yFlip_CheckedChanged(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
